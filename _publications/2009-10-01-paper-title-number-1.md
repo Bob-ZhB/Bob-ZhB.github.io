@@ -1,7 +1,7 @@
 ---
-title: "Cooperative Self-Assembled Nanoparticle Induces Sequential Immunogenic Cell Death and Toll-Like Receptor Activation for Synergistic Chemo-immunotherapy"
+title: "Cooperative Self-Assembled Nanoparticle Induces Sequential Immunogenic Cell Death and Toll-Like Receptor Activation for Synergistic Chemo-immunotherapy"(https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c00977)
 collection: publications
-permalink: "[https://pubs-acs-org.remotexs.ntu.edu.sg/doi/full/10.1021/acs.nanolett.1c00977](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c00977)"
+permalink: 
 excerpt: 'My undergraduate co-authored work'
 date: 2021-05-13
 venue: 'Journal 1'
