@@ -1,5 +1,5 @@
 ---
-title: "Cooperative Self-Assembled Nanoparticle Induces Sequential Immunogenic Cell Death and Toll-Like Receptor Activation for Synergistic Chemo-immunotherapy"(https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c00977)
+title: "Cooperative Self-Assembled Nanoparticle Induces Sequential Immunogenic Cell Death and Toll-Like Receptor Activation for Synergistic Chemo-immunotherapy"
 collection: publications
 permalink: 
 excerpt: 'My undergraduate co-authored work'
