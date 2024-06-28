@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../image/zb_photo.png"
+  avatar           : "zb_photo.png"
   name             : "Bo ZHANG 张博"
   pronouns         : "He/His" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
