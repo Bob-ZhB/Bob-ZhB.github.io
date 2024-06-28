@@ -2,7 +2,7 @@
 title: "Cooperative Self-Assembled Nanoparticle Induces Sequential Immunogenic Cell Death and Toll-Like Receptor Activation for Synergistic Chemo-immunotherapy"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'My undergraduate co-authored work'
 date: 2021-05-13
 venue: 'Journal 1'
 slidesurl: '[View Online](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c00977)'
