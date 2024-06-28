@@ -24,11 +24,11 @@ author:
   avatar           : "zb_photo.png"
   name             : "Bo ZHANG 张博"
   pronouns         : "He/His" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Singapoe" 
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Singapore" 
   employer         : "Nanyang Technological University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bo004@ntu.edu.sg" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
