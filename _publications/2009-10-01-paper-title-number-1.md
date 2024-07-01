@@ -4,7 +4,5 @@ collection: publications
 excerpt: 'My undergraduate co-authored work'
 date: 2021-05-13
 venue: 'Nano Letters'
-slidesurl: 
-paperurl: 
 Contributors: 'Yaoqi Wang, Zenghui Wang, Binlong Chen, Qingqing Yin, Meijie Pan, Heming Xia, **Bo Zhang**, Yue Yan, Zhujun Jiang, Qiang Zhang, and Yiguang Wang* 
 ---
